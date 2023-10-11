@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A9134163-A367-445B-8A4E-F5F616229BDF"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CA84CFEC-F11A-4E2E-84E0-D554CB62594B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "APIService/ApiService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "getHomePageData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CA84CFEC-F11A-4E2E-84E0-D554CB62594B - c597c51c16142d24"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for SwiftUIFoodApp.ApiService.getHomePageData() async throws -&gt; SwiftUIFoodApp.HomePageData"
+                  moduleName = "SwiftUIFoodApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/payaldesai/Documents/XcodeProject/SwiftUIFoodApp/APIService/ApiService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "432">
+               </Location>
+               <Location
+                  uuid = "CA84CFEC-F11A-4E2E-84E0-D554CB62594B - c597c51c16142eee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for SwiftUIFoodApp.ApiService.getHomePageData() async throws -&gt; SwiftUIFoodApp.HomePageData"
+                  moduleName = "SwiftUIFoodApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/payaldesai/Documents/XcodeProject/SwiftUIFoodApp/APIService/ApiService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "416">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B75457A1-CE6C-4672-92DF-88CF7D2971F8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "APIService/ApiService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "getHomePageData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B75457A1-CE6C-4672-92DF-88CF7D2971F8 - fb3b6ff86c2eeb78"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for SwiftUIFoodApp.ApiService.getHomePageData() async throws -&gt; SwiftUIFoodApp.HomePageData"
+                  moduleName = "SwiftUIFoodApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/payaldesai/Documents/XcodeProject/SwiftUIFoodApp/APIService/ApiService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "B75457A1-CE6C-4672-92DF-88CF7D2971F8 - fb3b6ff86c2eeb78"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for SwiftUIFoodApp.ApiService.getHomePageData() async throws -&gt; SwiftUIFoodApp.HomePageData"
+                  moduleName = "SwiftUIFoodApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/payaldesai/Documents/XcodeProject/SwiftUIFoodApp/APIService/ApiService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "204">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2A3E9F07-4215-431F-AA7F-43051D06B62B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "APIService/ApiService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "getHomePageData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2A3E9F07-4215-431F-AA7F-43051D06B62B - c597c51c16142fb0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for SwiftUIFoodApp.ApiService.getHomePageData() async throws -&gt; SwiftUIFoodApp.HomePageData"
+                  moduleName = "SwiftUIFoodApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/payaldesai/Documents/XcodeProject/SwiftUIFoodApp/APIService/ApiService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "2A3E9F07-4215-431F-AA7F-43051D06B62B - c597c51c16142fb0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for SwiftUIFoodApp.ApiService.getHomePageData() async throws -&gt; SwiftUIFoodApp.HomePageData"
+                  moduleName = "SwiftUIFoodApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/payaldesai/Documents/XcodeProject/SwiftUIFoodApp/APIService/ApiService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "356">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AFCFBCD1-2C09-4684-827C-B4785070129E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftUIFoodApp/HomeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "fetchHomePageData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AFCFBCD1-2C09-4684-827C-B4785070129E - 53d4123cba5c20a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for SwiftUIFoodApp.HomeViewModel.fetchHomePageData() async -&gt; ()"
+                  moduleName = "SwiftUIFoodApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/payaldesai/Documents/XcodeProject/SwiftUIFoodApp/SwiftUIFoodApp/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "484">
+               </Location>
+               <Location
+                  uuid = "AFCFBCD1-2C09-4684-827C-B4785070129E - da072e13b82e2b0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for SwiftUIFoodApp.HomeViewModel.fetchHomePageData() async -&gt; ()"
+                  moduleName = "SwiftUIFoodApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/payaldesai/Documents/XcodeProject/SwiftUIFoodApp/SwiftUIFoodApp/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "444">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "13A985ED-15DD-4A79-AE81-31088B8DA316"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "View/HomeView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "HomeView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "13A985ED-15DD-4A79-AE81-31088B8DA316 - fc650fa84544ce2a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUIFoodApp.SectionHeader, SwiftUI.HStack&lt;SwiftUI.ScrollView&lt;SwiftUI.LazyHStack&lt;Swift.Optional&lt;SwiftUI.ForEach&lt;Swift.Array&lt;SwiftUIFoodApp.FoodDishCategory&gt;, Swift.String, SwiftUIFoodApp.Categoryview&gt;&gt;&gt;&gt;&gt;)&gt; in SwiftUIFoodApp.HomeView.MainPage.getter : some"
+                  moduleName = "SwiftUIFoodApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/payaldesai/Documents/XcodeProject/SwiftUIFoodApp/View/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "460">
+               </Location>
+               <Location
+                  uuid = "13A985ED-15DD-4A79-AE81-31088B8DA316 - 82c3dba4bb1db510"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.ScrollView&lt;SwiftUI.LazyHStack&lt;Swift.Optional&lt;SwiftUI.ForEach&lt;Swift.Array&lt;SwiftUIFoodApp.FoodDishCategory&gt;, Swift.String, SwiftUIFoodApp.Categoryview&gt;&gt;&gt;&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUIFoodApp.SectionHeader, SwiftUI.HStack&lt;SwiftUI.ScrollView&lt;SwiftUI.LazyHStack&lt;Swift.Optional&lt;SwiftUI.ForEach&lt;Swift.Array&lt;SwiftUIFoodApp.FoodDishCategory&gt;, Swift.String, SwiftUIFoodApp.Categoryview&gt;&gt;&gt;&gt;&gt;)&gt; in SwiftUIFoodApp.HomeView.MainPage.getter : some"
+                  moduleName = "SwiftUIFoodApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/payaldesai/Documents/XcodeProject/SwiftUIFoodApp/View/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "464">
+               </Location>
+               <Location
+                  uuid = "13A985ED-15DD-4A79-AE81-31088B8DA316 - d261662d9570beb3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0, SwiftUI.HStack&lt;SwiftUI.ScrollView&lt;SwiftUI.LazyHStack&lt;Swift.Optional&lt;SwiftUI.ForEach&lt;Swift.Array&lt;SwiftUIFoodApp.FoodDishCategory&gt;, Swift.String, SwiftUIFoodApp.Categoryview&gt;&gt;&gt;&gt;&gt;)&gt; in SwiftUIFoodApp.HomeView.MainPage.getter : some"
+                  moduleName = "SwiftUIFoodApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/payaldesai/Documents/XcodeProject/SwiftUIFoodApp/View/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "404">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
